@@ -1,7 +1,7 @@
-# IS106 Final
+# IS106 Final - Jake Turner
 
 
-## Development server
+ Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
@@ -132,4 +132,4 @@ When the delete button is pressed, delete the corresponding item from the list.
 6. Add items 'Hot Dog', 'Hamberger' and 'Pizza' to list when corresponding button is clicked 20pts
 7. delete line item (order) when delete button is click 20 pts
 8. read in the orders.json file and populate the list table with the initial orders (3) 20pts
-9. Display calculated results on a flex-modal (see screenshot) 25 pts
+9. Display calculated results on a flex-modal (see screenshot) 18 pts
